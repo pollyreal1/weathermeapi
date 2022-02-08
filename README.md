@@ -11,7 +11,7 @@ composer install
 
 1. Create a database on your server enviroment
 
-2. Edit the mysql configuration on your enviroment on .env file
+2. Edit the mysql configuration on your enviroment on **.env** file
 
 ```
 DB_CONNECTION=mysql
